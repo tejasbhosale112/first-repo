@@ -5,4 +5,5 @@ sd=statistics.stdev(data)
 var=statistics.variance(data)
 print("the standard deviation is:",sd)
 print("the variance is:",var)
+#i am tejas
     
